@@ -1,4 +1,8 @@
-# AngularTictactoe
+# Angular Tic-Tac-Toe
+
+Tic-Tac-Toe PWA hosted in Firebase: https://angular-tictactoe-809a8.web.app/.
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
